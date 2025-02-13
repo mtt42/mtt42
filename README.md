@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mtt42/mtt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, welcome to my GitHub profile! I’m a Berlin-based engineer
+who’s been deep in data for over a decade now. 
 
-Here are some ideas to get you started:
+## Engineering Interests:
+- Personal Knowledge Management 🧠
+- Data Processing 📊
+- Data Modeling 📂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Interests:
+- Playing Badminton 🏸
+- Interesting theories about life 🤔
+- Creating lists and catalogs 📋
+
+
+## Favourite Quotes:
+
+- "If knowledge can create problems, it is not through ignorance that we can solve them." - Asimov
+
+## 📫 Reach me at:  
+- github@accidentallybored.me
